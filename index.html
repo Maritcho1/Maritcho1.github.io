@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Couleurs papa</title>
+  <link rel="stylesheet" href="couleurs-papa.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+
+<body>
+
+  <div id="start">
+    <div id="start-btn" class="btn">
+      Commencer
+    </div>
+  </div>
+
+  <div id="questions" style="display:none;">
+    <div id="content">
+
+      <div id="question">
+        <div id="question-titre">
+          <p>QUESTION-TITRE</p>
+        </div>
+
+        <div id="question-texte">
+          QUESTION-TEXTE
+        </div>
+        <span id="question-couleur" style="display:none;">COULEUR</span>
+      </div>
+
+      <div id="reponse">
+        <div id="pas-du-tout" class="btn">
+          Pas du tout
+        </div>
+        <div id="assez" class="btn">
+          Assez
+        </div>
+        <div id="beaucoup" class="btn">
+          Beaucoup
+        </div>
+      </div>
+    </div>
+
+
+    <div id="footer">
+      <div id="num"><span id="current">X</span> / <span id="total">XX</span></div>
+      <div id="btn-suivant" class="btn">Suivant <i style="margin-left: 10px;" class="fas fa-chevron-right"></i></div>
+    </div>
+  </div>
+
+  <div id="resultat" style="display:none;">
+    <p>Résultats :</p>
+    <table>
+      <tr>
+        <th style="min-width: 340px">Rouge : </th>
+        <th style="min-width: 110px"><span id="result-rouge"></span> pt(s)</th>
+        <th>
+          <div class="rect">
+            <div id="result-rouge-rect" class="rect-ins"></div>
+          </div>
+        </th>
+      </tr>
+      <tr>
+        <th>Bleu : </th>
+        <th><span id="result-bleu"></span> pt(s)</th>
+        <th>
+          <div class="rect">
+            <div id="result-bleu-rect" class="rect-ins"></div>
+          </div>
+        </th>
+      </tr>
+      <tr>
+        <th>Vert : </th>
+        <th><span id="result-vert"></span> pt(s)</th>
+        <th>
+          <div class="rect">
+            <div id="result-vert-rect" class="rect-ins"></div>
+          </div>
+        </th>
+
+      </tr>
+      <tr>
+        <th>Jaune : </th>
+        <th><span id="result-jaune"></span> pt(s)</th>
+        <th>
+          <div class="rect">
+            <div id="result-jaune-rect" class="rect-ins"></div>
+          </div>
+        </th>
+      </tr>
+    </table>
+  </div>
+
+  <script type="text/javascript" src="couleurs-papa.js"></script>
+</body>
+
+</html>

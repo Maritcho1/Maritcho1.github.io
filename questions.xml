@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<questions>
+
+	<!-- Verbal -->
+
+	<question>
+		<titre>Mon verbal</titre>
+		<texte>Parle fort et rapide
+Très peu de blancs, de silence
+Orienté résultats, objectifs
+		</texte>
+		<couleur>R</couleur>
+	</question>
+
+	<question>
+		<titre>Mon verbal</titre>
+		<texte>Parle beaucoup et de lui
+Rythme rapide et jovial, gai
+Très peu de silences
+Orienté vision, global
+		</texte>
+		<couleur>J</couleur>
+	</question>
+
+	<question>
+		<titre>Mon verbal</titre>
+		<texte>Parle doucement
+Peu de rythme
+Silences pour réfléchir
+Orienté	humain, harmonie
+		</texte>
+		<couleur>V</couleur>
+	</question>
+
+	<question>
+		<titre>Mon verbal</titre>
+		<texte>Parle peu mais juste
+Calme et froid
+Monocorde, sur le même	ton
+Orienté faits et chiffres
+		</texte>
+		<couleur>B</couleur>
+	</question>
+
+	<!-- Corporel -->
+
+	<question>
+		<titre>Mon corporel</titre>
+		<texte>Posture plutôt rigide
+Visage peu expressif
+Gestuelle contrôlée
+Poignée de main puissante
+		</texte>
+		<couleur>R</couleur>
+	</question>
+
+	<question>
+		<titre>Mon corporel</titre>
+		<texte>Posture relaxe
+Visage souriant
+Beaucoup de gestes
+Poignée de main ferme
+		</texte>
+		<couleur>J</couleur>
+	</question>
+
+	<question>
+		<titre>Mon corporel</titre>
+		<texte>Posture détendue
+Visage expressif
+Gestuelles sans excès
+Poignée de main cordiale
+		</texte>
+		<couleur>V</couleur>
+	</question>
+
+	<question>
+		<titre>Mon corporel</titre>
+		<texte>Evite le contact
+Visage peu expressif
+Peu de gestes
+Poignée de main formelle
+		</texte>
+		<couleur>B</couleur>
+	</question>
+
+	<!-- Corporel -->
+
+	<question>
+		<titre>En relation</titre>
+		<texte>Formel et direct
+Carré
+J'aime le contrôle
+		</texte>
+		<couleur>R</couleur>
+	</question>
+
+	<question>
+		<titre>En relation</titre>
+		<texte>Cordial, amical
+Motivateur, entraineur
+Spontané, émotif
+		</texte>
+		<couleur>J</couleur>
+	</question>
+
+	<question>
+		<titre>En relation</titre>
+		<texte>Diplomate, personnel
+Centré sur la relation
+Coopératif
+		</texte>
+		<couleur>V</couleur>
+	</question>
+
+	<question>
+		<titre>En relation</titre>
+		<texte>Réservé, distant
+Méthodique, analysant
+Centré sur la tâche
+		</texte>
+		<couleur>B</couleur>
+	</question>
+
+	<!-- Communication -->
+
+	<question>
+		<titre>En communication</titre>
+		<texte>Interrupteur
+Affirmé
+Il défie
+Impatient
+		</texte>
+		<couleur>R</couleur>
+	</question>
+
+	<question>
+		<titre>En communication</titre>
+		<texte>Se disperse
+Souple, créatif
+Parle défis futurs
+Mauvaise gestion du temps
+		</texte>
+		<couleur>J</couleur>
+	</question>
+
+	<question>
+		<titre>En communication</titre>
+		<texte>Réfléchit avant de répondre
+Hésitant
+Enjeux humains
+N'aime pas le changement
+		</texte>
+		<couleur>V</couleur>
+	</question>
+
+	<question>
+		<titre>En communication</titre>
+		<texte>Concentré
+Veut comprendre
+Parle amélioration
+Perfectionniste
+		</texte>
+		<couleur>B</couleur>
+	</question>
+
+	<!-- Comment être avec moi -->
+
+	<question>
+		<titre>Comment être avec moi</titre>
+		<texte>Etre direct et sûr de soi
+Ne soyez pas verbeux et long
+Etre centré sur les faits
+Parlez moi résultats
+		</texte>
+		<couleur>R</couleur>
+	</question>
+
+	<question>
+		<titre>Comment être avec moi</titre>
+		<texte>Etre sympa, gai
+S'intéresser à moi
+Etre centré sur l'avenir
+M'offrir des conditions spéciales
+		</texte>
+		<couleur>J</couleur>
+	</question>
+
+	<question>
+		<titre>Comment être avec moi</titre>
+		<texte>Etre ouvert et calme
+Demandez moi mon avis
+Me parlez bénéfice pour autrui
+Ne forcez pas
+		</texte>
+		<couleur>V</couleur>
+	</question>
+
+	<question>
+		<titre>Comment être avec moi</titre>
+		<texte>Etre formel et pas trop direct
+Donnez moi des détails factuels
+Logique
+Prouvez vos arguments
+		</texte>
+		<couleur>B</couleur>
+	</question>
+
+	<!-- Je suis souvent -->
+
+	<question>
+		<titre>Je suis souvent</titre>
+		<texte>Déterminé
+Exigeant
+Meneur
+Dans l'action
+		</texte>
+		<couleur>R</couleur>
+	</question>
+
+	<question>
+		<titre>Je suis souvent</titre>
+		<texte>Enthousiaste
+Persuasif
+Démonstratif
+Sociable
+		</texte>
+		<couleur>J</couleur>
+	</question>
+
+	<question>
+		<titre>Je suis souvent</titre>
+		<texte>Complaisant
+Attentionné
+Patient
+Détendu
+		</texte>
+		<couleur>V</couleur>
+	</question>
+
+	<question>
+		<titre>Je suis souvent</titre>
+		<texte>Prudent
+Précis
+Formel
+Réfléchi
+		</texte>
+		<couleur>B</couleur>
+	</question>
+
+	<!-- Ce qui peut me fâcher -->
+
+	<question>
+		<titre>Ce qui peut me fâcher</titre>
+		<texte>L'indécision, la lenteur
+L'absence d'objectifs
+Ne plus avoir le contrôle
+		</texte>
+		<couleur>R</couleur>
+	</question>
+
+	<question>
+		<titre>Ce qui peut me fâcher</titre>
+		<texte>L'excès de contraintes
+Le pessimisme
+Le rejet
+		</texte>
+		<couleur>J</couleur>
+	</question>
+
+	<question>
+		<titre>Ce qui peut me fâcher</titre>
+		<texte>Un traitement impersonnel
+Les changements brutaux
+Non respect de mes valeurs
+		</texte>
+		<couleur>V</couleur>
+	</question>
+
+	<question>
+		<titre>Ce qui peut me fâcher</titre>
+		<texte>Le manque de structure
+Un travail de faible qualité
+Le temps perdu
+		</texte>
+		<couleur>B</couleur>
+	</question>
+
+	<!-- On dit de moi que -->
+
+	<question>
+		<titre>On dit de moi que</titre>
+		<texte>Rempli d'énergie
+Réaliste
+Plein d'assurance
+Direct et ferme
+		</texte>
+		<couleur>R</couleur>
+	</question>
+
+	<question>
+		<titre>On dit de moi que</titre>
+		<texte>Radieu et positif
+Amical
+Visionnaire et inspirant
+Amusant
+		</texte>
+		<couleur>J</couleur>
+	</question>
+
+	<question>
+		<titre>On dit de moi que</titre>
+		<texte>Profond
+A l'écoute
+Aidant
+Démocratique
+		</texte>
+		<couleur>V</couleur>
+	</question>
+
+	<question>
+		<titre>On dit de moi que</titre>
+		<texte>Objectif, sans parti pris
+Indépendant
+Clair et précis
+Curieux de comprendre
+		</texte>
+		<couleur>B</couleur>
+	</question>
+
+	<!-- Quand je suis stressé -->
+
+	<question>
+		<titre>Quand je suis stressé</titre>
+		<texte>Je peux devenir irritable, agressif
+Je suis très impatient
+Je suis très exigeant
+		</texte>
+		<couleur>R</couleur>
+	</question>
+
+	<question>
+		<titre>Quand je suis stressé</titre>
+		<texte>Je conteste
+Ma sensibilité devient excessive
+Je deviens entêté
+		</texte>
+		<couleur>J</couleur>
+	</question>
+
+	<question>
+		<titre>Quand je suis stressé</titre>
+		<texte>Je deviens silencieux
+Je suis têtu et trop prudent
+Je suis critique, résistant
+		</texte>
+		<couleur>V</couleur>
+	</question>
+
+	<question>
+		<titre>Quand je suis stressé</titre>
+		<texte>Je pose beaucoup de questions
+Je commence à pinailler
+Je suis détaché, rancunier
+		</texte>
+		<couleur>B</couleur>
+	</question>
+
+</questions>
